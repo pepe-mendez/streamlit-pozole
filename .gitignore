@@ -1,0 +1,16 @@
+# Entorno virtual
+pozole_train/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local de VS Code
+.vscode/
+
+# Otros archivos de entorno
+
+.env
+.env.*
+!.env.example
+.DS_Store
